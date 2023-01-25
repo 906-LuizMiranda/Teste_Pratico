@@ -1,0 +1,15 @@
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\bin\Debug\net5.0\TestePraticoDevPlenoUx.DTO.deps.json
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\bin\Debug\net5.0\TestePraticoDevPlenoUx.DTO.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\bin\Debug\net5.0\TestePraticoDevPlenoUx.DTO.pdb
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\bin\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\bin\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.pdb
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\obj\Debug\net5.0\TestePraticoDevPlenoUx.DTO.csproj.AssemblyReference.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\obj\Debug\net5.0\TestePraticoDevPlenoUx.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\obj\Debug\net5.0\TestePraticoDevPlenoUx.DTO.AssemblyInfoInputs.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\obj\Debug\net5.0\TestePraticoDevPlenoUx.DTO.AssemblyInfo.cs
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\obj\Debug\net5.0\TestePraticoDevPlenoUx.DTO.csproj.CoreCompileInputs.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\obj\Debug\net5.0\TestePraticoDevPlenoUx.DTO.csproj.CopyComplete
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\obj\Debug\net5.0\TestePraticoDevPlenoUx.DTO.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\obj\Debug\net5.0\refint\TestePraticoDevPlenoUx.DTO.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\obj\Debug\net5.0\TestePraticoDevPlenoUx.DTO.pdb
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.DTO\obj\Debug\net5.0\ref\TestePraticoDevPlenoUx.DTO.dll

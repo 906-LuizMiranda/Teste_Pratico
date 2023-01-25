@@ -1,0 +1,17 @@
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\obj\Debug\net5.0\TestePraticoDevPlenoUx.Domain.csproj.AssemblyReference.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\obj\Debug\net5.0\TestePraticoDevPlenoUx.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\obj\Debug\net5.0\TestePraticoDevPlenoUx.Domain.AssemblyInfoInputs.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\obj\Debug\net5.0\TestePraticoDevPlenoUx.Domain.AssemblyInfo.cs
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\obj\Debug\net5.0\TestePraticoDevPlenoUx.Domain.csproj.CoreCompileInputs.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\bin\Debug\net5.0\TestePraticoDevPlenoUx.Domain.deps.json
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\bin\Debug\net5.0\TestePraticoDevPlenoUx.Domain.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\bin\Debug\net5.0\TestePraticoDevPlenoUx.Domain.pdb
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\bin\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\bin\Debug\net5.0\TestePraticoDevPlenoUx.DTO.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\bin\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.pdb
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\bin\Debug\net5.0\TestePraticoDevPlenoUx.DTO.pdb
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\obj\Debug\net5.0\TestePraticoDevPlenoUx.Domain.csproj.CopyComplete
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\obj\Debug\net5.0\TestePraticoDevPlenoUx.Domain.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\obj\Debug\net5.0\refint\TestePraticoDevPlenoUx.Domain.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\obj\Debug\net5.0\TestePraticoDevPlenoUx.Domain.pdb
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Domain\obj\Debug\net5.0\ref\TestePraticoDevPlenoUx.Domain.dll

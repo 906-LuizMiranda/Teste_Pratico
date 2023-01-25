@@ -1,0 +1,12 @@
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\bin\Debug\net5.0\TestePraticoDevPlenoUx.Data.SqlServer.deps.json
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\bin\Debug\net5.0\TestePraticoDevPlenoUx.Data.SqlServer.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\bin\Debug\net5.0\TestePraticoDevPlenoUx.Data.SqlServer.pdb
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\obj\Debug\net5.0\TestePraticoDevPlenoUx.Data.SqlServer.csproj.AssemblyReference.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\obj\Debug\net5.0\TestePraticoDevPlenoUx.Data.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\obj\Debug\net5.0\TestePraticoDevPlenoUx.Data.SqlServer.AssemblyInfoInputs.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\obj\Debug\net5.0\TestePraticoDevPlenoUx.Data.SqlServer.AssemblyInfo.cs
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\obj\Debug\net5.0\TestePraticoDevPlenoUx.Data.SqlServer.csproj.CoreCompileInputs.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\obj\Debug\net5.0\TestePraticoDevPlenoUx.Data.SqlServer.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\obj\Debug\net5.0\refint\TestePraticoDevPlenoUx.Data.SqlServer.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\obj\Debug\net5.0\TestePraticoDevPlenoUx.Data.SqlServer.pdb
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.Data.SqlServer\obj\Debug\net5.0\ref\TestePraticoDevPlenoUx.Data.SqlServer.dll

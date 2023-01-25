@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PLOSTj6oQVObIFD3c8VnAdxD1y+3aQPVJOqHpr5qwqthE0bjuFRy89gLB3v54MhA43ebaLzODeZPM2oJwdY1JA==",
+  "success": true,
+  "projectFilePath": "C:\\Code Source\\Pessoal\\TestePraticoDevPlenoUx\\TestePraticoDevPlenoUx.Application\\TestePraticoDevPlenoUx.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tensa Zangetsu\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\Tensa Zangetsu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tensa Zangetsu\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tensa Zangetsu\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Tensa Zangetsu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

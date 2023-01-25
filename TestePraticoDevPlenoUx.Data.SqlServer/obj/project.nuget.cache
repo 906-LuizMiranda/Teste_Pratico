@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ObzRLsXME6irCfh2A+P+/vgxdqYX1War0nN8Pc5N0o+BIq1MCVlNz5cnW+UKmPHeRv7jYJ5gkdiIhUR06Qb0CA==",
+  "success": true,
+  "projectFilePath": "C:\\Code Source\\Pessoal\\TestePraticoDevPlenoUx\\TestePraticoDevPlenoUx.Data.SqlServer\\TestePraticoDevPlenoUx.Data.SqlServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tensa Zangetsu\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Tensa Zangetsu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tensa Zangetsu\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Tensa Zangetsu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

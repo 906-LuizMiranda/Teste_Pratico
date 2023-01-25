@@ -1,0 +1,12 @@
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\bin\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.deps.json
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\bin\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\bin\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.pdb
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\obj\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.csproj.AssemblyReference.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\obj\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\obj\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.AssemblyInfoInputs.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\obj\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.AssemblyInfo.cs
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\obj\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\obj\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\obj\Debug\net5.0\refint\TestePraticoDevPlenoUx.CrossCutting.dll
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\obj\Debug\net5.0\TestePraticoDevPlenoUx.CrossCutting.pdb
+C:\Code Source\Pessoal\TestePraticoDevPlenoUx\TestePraticoDevPlenoUx.CrossCutting\obj\Debug\net5.0\ref\TestePraticoDevPlenoUx.CrossCutting.dll

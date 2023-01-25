@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestePraticoDevPlenoUx.DTO/1.0.0": {
+        "dependencies": {
+          "TestePraticoDevPlenoUx.CrossCutting": "1.0.0"
+        },
+        "runtime": {
+          "TestePraticoDevPlenoUx.DTO.dll": {}
+        }
+      },
+      "TestePraticoDevPlenoUx.CrossCutting/1.0.0": {
+        "runtime": {
+          "TestePraticoDevPlenoUx.CrossCutting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestePraticoDevPlenoUx.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestePraticoDevPlenoUx.CrossCutting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
